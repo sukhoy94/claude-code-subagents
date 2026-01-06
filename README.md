@@ -69,6 +69,7 @@ comprehensive-agents/
 │   ├── remix-expert.md     # Remix full-stack framework
 │   ├── astro-expert.md     # Astro static site builder
 │   └── qwik-expert.md      # Qwik resumable framework
+│   └── laravel-expert.md   # Laravel framework
 ├── infrastructure/         # DevOps and cloud optimization (13) ✅
 │   ├── devops-engineer.md  # CI/CD and automation
 │   ├── cloud-architect.md  # AWS/GCP/Azure
@@ -277,6 +278,7 @@ Specialized knowledge of popular frameworks:
 - **remix-expert** - Remix, nested routing, progressive enhancement, optimistic UI
 - **astro-expert** - Astro, partial hydration, component islands, multi-framework
 - **qwik-expert** - Qwik, resumability, fine-grained lazy loading, instant TTI
+- **laravel-expert** - Laravel 12x, Eloquent ORM, REST & GraphQL APIs, Queues & Jobs, Horizon
 
 ### Infrastructure & DevOps (13 experts)
 Modern infrastructure and deployment:
